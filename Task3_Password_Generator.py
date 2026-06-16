@@ -1,5 +1,4 @@
 # Task 3 - Password Generator
-# CodSoft Python Internship - Azhaan Azam
 
 import random
 import string

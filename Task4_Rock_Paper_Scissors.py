@@ -1,5 +1,4 @@
 # Task 4 - Rock Paper Scissors Game
-# CodSoft Python Internship - Azhaan Azam
 
 import random
 

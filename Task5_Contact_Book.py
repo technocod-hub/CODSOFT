@@ -1,5 +1,4 @@
 # Task 5 - Contact Book
-# CodSoft Python Internship - Azhaan Azam
 
 contacts = []
 
