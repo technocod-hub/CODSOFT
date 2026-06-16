@@ -77,4 +77,3 @@ python Task2_Calculator.py
 python Task3_Password_Generator.py
 python Task4_Rock_Paper_Scissors.py
 python Task5_Contact_Book.py
-```
