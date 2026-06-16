@@ -1,5 +1,4 @@
 # Task 1 - To-Do List Application
-# CodSoft Python Internship - Azhaan Azam
 
 tasks = []
 
