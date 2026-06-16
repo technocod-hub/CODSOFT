@@ -1,12 +1,3 @@
-# 🐍 CodSoft Python Programming Internship
-
-**Intern:** Azhaan Azam
-**Batch:** March Batch B91
-**Duration:** 01 April 2026 - 30 April 2026
-**Domain:** Python Programming
-
----
-
 ## 📋 Tasks Overview
 
 | # | Task | Status |
@@ -87,13 +78,3 @@ python Task3_Password_Generator.py
 python Task4_Rock_Paper_Scissors.py
 python Task5_Contact_Book.py
 ```
-
----
-
-## 📬 Connect With Me
-- **LinkedIn:** [Azhaan Azam](https://www.linkedin.com/in/)
-- **GitHub:** [technocod-hub](https://github.com/technocod-hub)
-
----
-
-*Made with ❤️ during CodSoft Python Internship 2026*
